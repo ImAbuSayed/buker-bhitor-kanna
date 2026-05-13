@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/buker-bhitor-kanna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Buker Bhitor Kanna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buker-bhitor-kanna/) |
+| **Get License** | [Request Licensing for Buker Bhitor Kanna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buker-bhitor-kanna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> বুকের ভেতর কান্না চেপে খুঁজছি তোমার ঘ্রাণ
+> অন্ধকারের নেশায় আজো পুড়ছে আমার প্রাণ
+> মাতাল হাওয়া কাঁপন ধরায় আমার এ শরীরে
+> তোমার ছোঁয়া পেতে আমি আসবো ফিরে ফিরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
