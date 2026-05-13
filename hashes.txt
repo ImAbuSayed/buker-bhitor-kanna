@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Buker Bhitor Kanna
+
+This log tracks the cryptographic history and versioning for the song **Buker Bhitor Kanna** (buker-bhitor-kanna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T06:25:50.958098 | `v1` | `bc119137c010348e0af14703b60b1107bee0d1590349c78fbe54282c13d044a6` | `20d56dbba1d41e978c80f75550028b746b2c50d63c24dd3df88c49214d0a79b3` | `2026-05-13_buker-bhitor-kanna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
